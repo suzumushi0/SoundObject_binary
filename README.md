@@ -1,5 +1,5 @@
 # SoundObject_binary
-SoundObject binary distribution
+SoundObject binary distribution.
 
 SoundObject creates a binaural sound that enables senses of three-dimensional sound localization from a monaural acoustic source and its positional information. It is provided as a VST 3 plug-in for digital audio workstations (DAW) and supports 44.1KHz, 48KHz, and 96KHz sampling rates. OS environment is 64bit Windows 10.
 
