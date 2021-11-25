@@ -1,8 +1,8 @@
 Installation
 
 (1) Unzip the file. Then you will see the following two FOLDERS.
-  SoundObject.vst   contains SoundObject plug-in.
-  suzumushi		    contains a few VST preset files.
+  SoundObject.vst	contains SoundObject plug-in.
+  suzumushi			contains a few VST preset files.
 
 (2) Copy SoundObject.vst3 to C:\Program Files\Common Files\VST3
 
@@ -17,8 +17,8 @@ Enjoy.
 インストール方法
 
 (1) ファイルを解凍すると，以下の 2 つの「フォルダ」がある．
-  SoundObject.vst	  SoundObject プラグイン
-  suzumushi		      VST preset ファイル
+  SoundObject.vst	SoundObject プラグイン
+  suzumushi			VST preset ファイル
 
 (2) SoundObject.vst3 を C:\Program Files\Common Files\VST3 にコピー
 
