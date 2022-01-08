@@ -1,8 +1,8 @@
 # SoundObject binary distribution.
 
-![capture](https://user-images.githubusercontent.com/67182469/133911672-d669112d-a3f8-46ad-8ef8-7a635655c145.PNG)
+![capture](https://user-images.githubusercontent.com/67182469/148635576-bcc81a03-d5d6-4b11-b905-dd6d36ffbfb1.png)
 
-SoundObject creates a binaural sound with the senses of three-dimensional sound localization from a monaural acoustic source and its positional information.
+SoundObject creates a binaural sound with the senses of three-dimensional sound localization from a monaural acoustic source and its positional information. It supports headphones-based as well as stereo speakers-based 3D spatial sound.
 
 Conventional three-dimensional binaural sound processors implement sound localization with the convolution of an acoustic source and head-related impulse response (HRIR) that represents scattering by the head. Since the convolution consumes a large amount of computational resource, SoundObject assumes that scattering by a head consists of scattering by a rigid sphere and pinnae (earlobes), then enables sound localization with simplified sphere and pinna scattering effect filters.
 
@@ -14,7 +14,7 @@ SoundObject is provided as a VST 3 plug-in for digital audio workstations (DAW) 
 
 https://suzumushi0.hatenablog.com/entry/SOv1/SO_EN
 
-SoundObject はモノラル音源とその位置情報から 3 次元の定位感のあるバイノーラルサウンドを生成する．
+SoundObject はモノラル音源とその位置情報から 3 次元の定位感のあるバイノーラルサウンドを生成する．また，ヘッドホンによる 3D サウンドだけでなく，ステレオスピーカによる 3D サウンドにも対応している．
 
 従来の 3 次元バイノーラルサウンドプロセッサーは，頭部による散乱を表す頭部インパルス応答 (Head-Related Impulse Response: HRIR) と音源の畳み込みによって，定位感を実現している．この畳み込みは大量の計算リソースを必要とするため，SoundObject では，頭部による散乱は剛体球による散乱と耳介 (耳たぶ) による散乱によって構成されると想定し，簡易な球散乱効果フィルタと耳介散乱効果フィルタにより定位感を実現している．
 
