@@ -1,0 +1,43 @@
+
+This binary distribution for macOS 10.14 64bit Intel is the contribution from Sjoerd W. Bijleveld.
+
+Note: This is a "beta" release because does not correctly work in some DAWs and Digital Performer could not load this release.
+
+
+Installation
+
+(1) Unzip the file. Then you will see the following two FOLDERS.
+  SoundObject.vst	contains SoundObject plug-in.
+  suzumushi		contains a few VST preset files.
+
+(2) Copy SoundObject.vst3 to /Library/Audio/Plug-ins/VST3
+
+Note: "SoundObject.vst3" is a FOLDER in the unzipped file.
+It is NOT "SoundObject.vst3/Contents/MacOS/SoundObject".
+
+(3) Copy suzumushi to /Users/your_account_name/Library/Audio/Presets
+
+Enjoy.
+
+
+この macOS 10.14 64bit Intel 用のバイナリは Sjoerd W. Bijleveld によるコントリビューションです．
+
+Note: このリリースは幾つかの DAW で不具合が発生し，また Digital Performer では動作しないため，βリリースとなります．
+
+
+インストール方法
+
+(1) ファイルを解凍すると，以下の 2 つの「フォルダ」がある．
+  SoundObject.vst	SoundObject プラグイン
+  suzumushi		VST preset ファイル
+
+(2) SoundObject.vst3 を  /Library/Audio/Plug-ins/VST3 にコピー
+
+Note: "SoundObject.vst3" は解凍したファイルにある「フォルダ」です．
+"SoundObject.vst3/Contents/MacOS/SoundObject" ではありません．
+
+(3) suzumushi を /Users/your_account_name/Library/Audio/Presets にコピ
+ー
+
+Enjoy.
+
