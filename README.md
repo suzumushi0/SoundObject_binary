@@ -10,7 +10,7 @@ And in many cases, conventional convolution-based binaural sound rarely creates 
 
 Furthermore, Doppler effect inevitably results from a moving acoustic source. Generally, sine waves whose frequency difference is 0.3% are distinguishable as different sounds. This fact implies that the recognizable Doppler effect results from an acoustic source whose speed exceeds approximately 1m/s. Since it is never high speed, SoundObject constantly adds Doppler effect when an acoustic source is moving.
 
-SoundObject is provided as a VST 3 plug-in for digital audio workstations (DAW) and supports 44.1KHz, 48KHz, and 96KHz sampling rates. OS environment is 64bit Windows 10. Refer to the following document for details.
+SoundObject is provided as a VST 3 plug-in for digital audio workstations (DAW) and supports 44.1KHz, 48KHz, and 96KHz sampling rates.  OS environments are 64bit Windows 10 and macOS 10.14. Refer to the following document for details.
 
 https://suzumushi0.hatenablog.com/entry/SOv1/SO_EN
 
@@ -22,7 +22,7 @@ SoundObject はモノラル音源とその位置情報から 3 次元の定位�
 
 更に，音源の移動によってドップラー効果は必ず生じる．一般に，周波数が 0.3% 異なる正弦波は異なる音として識別できる．これは，約 1m/s を越える速度の音源から，認識可能なドップラー効果が生じる事を意味している．1m/s は決して高速では無いため，SoundObject では音源の移動の際に必ずドップラー効果を加えている．
 
-SoundObject はディジタルオーディオワークステーション (Digital Audio Workstations: DAW) の VST 3 plug-in として提供され，44.1KHz, 48KHz, 96KHz のサンプリングレートをサポートしている．また，OS 環境は 64 bit の Windows 10となる．詳細は以下のドキュメントを参照．
+SoundObject はディジタルオーディオワークステーション (Digital Audio Workstations: DAW) の VST 3 plug-in として提供され，44.1KHz, 48KHz, 96KHz のサンプリングレートをサポートしている．また，OS 環境は 64 bit の Windows 10 及び macOS 10.14 となる．詳細は以下のドキュメントを参照．
 
 https://suzumushi0.hatenablog.com/entry/SOv1/SO_JP
 
