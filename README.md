@@ -1,6 +1,6 @@
 # SoundObject binary distribution.
 
-![capture](https://user-images.githubusercontent.com/67182469/148635576-bcc81a03-d5d6-4b11-b905-dd6d36ffbfb1.png)
+![SO v3](https://github.com/suzumushi0/SoundObject_binary/assets/67182469/2e23abd5-3b7c-4aa0-8925-045db4bc4d09)
 
 SoundObject creates a binaural sound with the senses of three-dimensional sound localization from a monaural acoustic source and its positional information. It supports headphones-based as well as stereo speakers-based 3D spatial sound. Furthermore, it could also support headphones monitoring of stereo speakers sound.
 
