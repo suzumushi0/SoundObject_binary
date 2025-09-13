@@ -2,7 +2,7 @@
 
 ![SO v3](https://github.com/suzumushi0/SoundObject_binary/assets/67182469/2e23abd5-3b7c-4aa0-8925-045db4bc4d09)
 
-SoundObject creates a binaural sound with the senses of three-dimensional sound localization from a monaural acoustic source and its positional information. It supports headphones-based as well as stereo speakers-based 3D spatial sound. Furthermore, it could also support headphones monitoring of stereo speakers sound.
+SoundObject creates a binaural sound with the senses of three-dimensional sound localization from a monaural acoustic source and its positional information. It supports headphones-based as well as stereo speakers-based 3D spatial sound.
 
 Conventional three-dimensional binaural sound processors implement sound localization with the convolution of an acoustic source and head-related impulse response (HRIR) that represents scattering by the head. Since the convolution consumes a large amount of computational resource, SoundObject assumes that scattering by a head consists of scattering by a rigid sphere and pinnae (earlobes), then enables sound localization with simplified sphere and pinna scattering effect filters.
 
